@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="str_username">Username: </string>
+    <string name="str_total">Total Messages: </string>
+    <string name="str_fav">Favorite Messages: </string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
